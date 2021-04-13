@@ -1,4 +1,11 @@
 h1{
 	font-family: 'Comic sans ms';
 	font-size: 35;
+	color: red;
+}
+
+h2{
+	font-family: 'Comic sans ms';
+	font-size: 25;
+	color: blue;
 }
